@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/239/trunk
+END
+GPL-2
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/2/trunk/GPL-2
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/239/trunk/configure
+END
+update
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/148/trunk/update
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/232/trunk/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/AUTHORS
+END
+INSTALL.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/88/trunk/INSTALL.Debian
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/223/trunk/ChangeLog
+END
+commit
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/211/trunk/commit
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/215/trunk/config.guess
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/239/trunk/config.h
+END
+README.Fedora
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/198/trunk/README.Fedora
+END
+stresstest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/169/trunk/stresstest.sh
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/206/trunk/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/215/trunk/config.sub
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2/trunk/README
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/233/trunk/config.h.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/239/trunk/configure.ac
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/2/trunk/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/INSTALL
+END
+etc-pam.d-shellinabox-example
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/188/trunk/etc-pam.d-shellinabox-example
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/202/trunk/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/232/trunk/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/missing
+END
+make-chained-cert.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/91/trunk/make-chained-cert.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/2/trunk/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/216/trunk/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/66/trunk/install-sh
+END

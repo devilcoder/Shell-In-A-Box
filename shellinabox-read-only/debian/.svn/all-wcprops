@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/215/trunk/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/215/trunk/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/191/trunk/debian/compat
+END
+shellinabox.examples
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/195/trunk/debian/shellinabox.examples
+END
+README.enabled
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/170/trunk/debian/README.enabled
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/186/trunk/debian/changelog
+END
+docs
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/195/trunk/debian/docs
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/195/trunk/debian/rules
+END
+shellinabox.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/195/trunk/debian/shellinabox.postinst
+END
+shellinabox.default
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/101/trunk/debian/shellinabox.default
+END
+shellinabox.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/195/trunk/debian/shellinabox.postrm
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/debian/README
+END
+watch
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/196/trunk/debian/watch
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/202/trunk/debian/copyright
+END
+shellinabox.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/debian/shellinabox.dirs
+END
+shellinabox.init
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/170/trunk/debian/shellinabox.init
+END
+README.available
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/185/trunk/debian/README.available
+END
+shellinabox.install
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/195/trunk/debian/shellinabox.install
+END

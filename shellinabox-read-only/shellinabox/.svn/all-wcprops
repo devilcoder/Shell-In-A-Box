@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/239/trunk/shellinabox
+END
+shell_in_a_box.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/239/trunk/shellinabox/shell_in_a_box.js
+END
+service.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/232/trunk/shellinabox/service.c
+END
+launcher.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/237/trunk/shellinabox/launcher.c
+END
+root_page.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/217/trunk/shellinabox/root_page.html
+END
+vt100.jspp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/225/trunk/shellinabox/vt100.jspp
+END
+service.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/202/trunk/shellinabox/service.h
+END
+launcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/174/trunk/shellinabox/launcher.h
+END
+privileges.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/232/trunk/shellinabox/privileges.c
+END
+shellinaboxd.man.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/223/trunk/shellinabox/shellinaboxd.man.in
+END
+shellinaboxd.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/238/trunk/shellinabox/shellinaboxd.c
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/66/trunk/shellinabox/favicon.ico
+END
+privileges.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/232/trunk/shellinabox/privileges.h
+END
+externalfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/121/trunk/shellinabox/externalfile.c
+END
+print-styles.css
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/178/trunk/shellinabox/print-styles.css
+END
+beep.wav
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/66/trunk/shellinabox/beep.wav
+END
+usercss.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/231/trunk/shellinabox/usercss.c
+END
+externalfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/25/trunk/shellinabox/externalfile.h
+END
+styles.css
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/221/trunk/shellinabox/styles.css
+END
+usercss.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/172/trunk/shellinabox/usercss.h
+END
+keyboard-layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/225/trunk/shellinabox/keyboard-layout.html
+END
+shell_in_a_box.jspp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/202/trunk/shellinabox/shell_in_a_box.jspp
+END
+keyboard.png
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/221/trunk/shellinabox/keyboard.png
+END
+vt100.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/239/trunk/shellinabox/vt100.js
+END
+cgi-mode-example.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/173/trunk/shellinabox/cgi-mode-example.sh
+END
+white-on-black.css
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/167/trunk/shellinabox/white-on-black.css
+END
+black-on-white.css
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/167/trunk/shellinabox/black-on-white.css
+END
+monochrome.css
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/172/trunk/shellinabox/monochrome.css
+END
+enabled.gif
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/167/trunk/shellinabox/enabled.gif
+END
+session.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/231/trunk/shellinabox/session.c
+END
+color.css
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/172/trunk/shellinabox/color.css
+END
+cgi_root.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/66/trunk/shellinabox/cgi_root.html
+END
+session.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/25/trunk/shellinabox/session.h
+END
