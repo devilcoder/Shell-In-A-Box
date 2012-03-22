@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/239/trunk/libhttp
+END
+httpconnection.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/238/trunk/libhttp/httpconnection.c
+END
+ssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/231/trunk/libhttp/ssl.c
+END
+hashmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/59/trunk/libhttp/hashmap.c
+END
+url.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/231/trunk/libhttp/url.c
+END
+trie.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/136/trunk/libhttp/trie.c
+END
+http.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/238/trunk/libhttp/http.h
+END
+httpconnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/202/trunk/libhttp/httpconnection.h
+END
+server.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/239/trunk/libhttp/server.c
+END
+hashmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/25/trunk/libhttp/hashmap.h
+END
+ssl.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/115/trunk/libhttp/ssl.h
+END
+url.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/140/trunk/libhttp/url.h
+END
+trie.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/25/trunk/libhttp/trie.h
+END
+server.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/238/trunk/libhttp/server.h
+END
+libhttp.sym
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/202/trunk/libhttp/libhttp.sym
+END
